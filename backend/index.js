@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const routes = require("./routes");
 
 const db =
-  "mongodb+srv://mayuresh:mayuresh2008@cluster0.syhgd.mongodb.net/Users?retryWrites=true&w=majority";
+  "<YOUR DB URL>";
 
 const app = express();
 
